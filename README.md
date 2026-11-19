@@ -6,14 +6,14 @@
 **Live Website:** [www.marburg-kocht.de](https://www.marburg-kocht.de)
 
 ## My Role & Responsibilities
-I worked at the intersection of business and technology, acting as the link between the client (BWL team) and the IT development team.
+I worked at the intersection of business and technology, acting as the link between the client, the BWL team and the IT development team.
 
 *   **Requirements Management:** Served as the central communication interface between the BWL team and the IT team. Translated business requirements into technical specifications and ensured mutual understanding.
 *   **UI/UX Design:** Responsible for the visual design and user experience, ensuring an intuitive and engaging registration process for event participants.
 *   **System Architecture:** Participated in the design and conceptualization of the frontend and backend architecture to support the event logic.
 
 ## Technologies Used
-*   **Frontend:** HTML, CSS, JavaScript
+*   **Frontend:** React + Vite
 *   **Backend:** Java Spring Boot, Rest-API
 
 ## Key Learnings
